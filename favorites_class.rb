@@ -1,4 +1,4 @@
 def favorites
     #this is a favorite class
-    #develop changes
+    #master changes
 end
